@@ -2,6 +2,11 @@
 
 The PUSH Showrunners handles the channels created and maintaned by us. It also shows how easy it is to interact with the protocol to build highly customized notifications for your dApp, smart contracts or even centralized services.
 
+# Project POL transfers
+- This project uses Push showrunners and Chainbases Ethereum mainner websocket .
+- User can subscribe to <a href="staging.push.org/channels?channel=0x82a7A0828fa8EB902f0508620Ee305b08634318A">Push CHannel link</a> to receive notification about every transfer/swap of POL token .
+- This channel can also be uses to track Whale address,like one shown in the demo,a user transfered 5700 POL tokens,whith his address shown in the notification,you can see his past trading history and what tokens does it holds.
+- CHainlse code Link : 
 ## Installation and Set Up Guide
 
 - Install docker 
