@@ -5,6 +5,8 @@ The PUSH Showrunners handles the channels created and maintaned by us. It also s
 # Project POL transfers
 - This project uses Push showrunners and Chainbases Ethereum mainner websocket .
 - User can subscribe to this channel https://staging.push.org/channels?channel=0x82a7A0828fa8EB902f0508620Ee305b08634318A  ,to receive notification about every transfer/swap event of POL token done using Chainbase websocket .
+- ![pushNotif1](https://github.com/aeyshubh/Pol-transfers-Showrunners/assets/50445649/87746deb-95ac-4f34-8fec-28bfa44c7bff)
+
 - This channel can also be uses to track Whale address and see their transactions ,like one shown in the demo,a user transfered 5700 POL tokens,with his address shown in the notification,you can see his past trading history and what tokens does it holds.
 - Chainbase code Link : https://github.com/aeyshubh/Pol-transfers-Showrunners/blob/1f88520b847572dd838105b74bc370a2b9b3459c/src/showrunners/helloWorld/helloWorldJobs.ts#L43
 - Tracking : https://etherscan.io/address/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6#events
